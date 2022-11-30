@@ -1,11 +1,7 @@
 # Nikolay Sivaev
 
 ## Contacts
-
----
-
 - **Location:** Moscow, Russia
-- **Phone:** +7 (996) 969-72-32
 - **Email:** nsivaev@list.ru
 - **GitHub:** [nsivaev](https://github.com/nsivaev)
 - **Discord:** Nikolay Sivaev#9923
